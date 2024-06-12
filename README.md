@@ -1,2 +1,2 @@
 # collectors_gmaes
-Raccolta di giochi fatta in c 
+Raccolta di giochi creata in c fatta da Sebastiano Lanfranchi
