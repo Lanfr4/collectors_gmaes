@@ -42,5 +42,6 @@ int main(){
 
     // stampa del campo da gioco
     printf("");
+    printf("\n\n\n");
 
 }
