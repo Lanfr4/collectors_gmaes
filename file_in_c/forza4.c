@@ -1,6 +1,6 @@
-/*#include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
-#include<windows.h>*/
+#include<windows.h>
 /*
 void gotoxy(int x, int y) {
     COORD coord;
