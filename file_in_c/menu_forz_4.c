@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 /*MENU FORZA 4*/
 /*
 
@@ -41,7 +42,7 @@ void crediti(){
     do{
         printf("Digita 0 per andare alla home");
         scanf("%d", &c);
-    }while(c!==0);
+    }while(c!=0);
 
     return 0;
 
