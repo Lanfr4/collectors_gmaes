@@ -11,19 +11,7 @@ void gotoxy(int x, int y) {
 int main(){
     // fare e stampare  il campo da gioco;
     // dimensioni 6* 7 caselle per i idschi ;
-    // in c DOVREBBE ESSERE  15 * 13;  
-    /*
-    
-
-  ______                    _  _   
- |  ____|                  | || |  
- | |__ ___  _ __ ______ _  | || |_ 
- |  __/ _ \| '__|_  / _` | |__   _|
- | | | (_) | |   / / (_| |    | |  
- |_|  \___/|_|  /___\__,_|    |_|  
-                                   
-                                                                                                                                 
-*/
+    // in c DOVREBBE ESSERE  15                                                                                                                              
     int  i; 
     char play1;
 	char  play2;
@@ -43,5 +31,6 @@ int main(){
     // stampa del campo da gioco
     printf("");
     printf("\n\n\n");
+    return(0);
 
 }
