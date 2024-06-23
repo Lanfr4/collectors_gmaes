@@ -64,7 +64,7 @@ void menu(){
     printf("|  __/ _ \\| '__|_  / _` | |__   _| \n");
     printf("| | | (_) | |   / / (_| |    | |    \n");
     printf("|_|  \\___/|_|  /___\\__,_|    |_|    \n");
-    /*
+  
     printf("Digita 1 per giocare a forxa 4 ;\n");
     printf("Digita 2 per guardare i crediti;\n");
     printf("Digita 3 per uscire da forza 4;\n");
@@ -81,6 +81,6 @@ void menu(){
         case 3:{
             
         }
-    }*/
+    }
 
 }
