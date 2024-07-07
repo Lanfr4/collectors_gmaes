@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h>
+/*This is the complete game*/
 /*
 void gotoxy(int x, int y) {
     COORD coord;
