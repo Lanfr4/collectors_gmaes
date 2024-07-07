@@ -43,8 +43,7 @@ void crediti(){
         printf("Digita 0 per andare alla home");
         scanf("%d", &c);
     }while(c!=0);
-
-    return 0;
+	
 
 }
 /*
@@ -68,7 +67,7 @@ void menu(){
     printf("Digita 1 per giocare a forxa 4 ;\n");
     printf("Digita 2 per guardare i crediti;\n");
     printf("Digita 3 per uscire da forza 4;\n");
-    printf("Scegli");
+    printf("Scegli : ");
     scanf("%d", &s);
 
     switch(s){
@@ -79,7 +78,7 @@ void menu(){
             crediti();
         }
         case 3:{
-            
+            exit (0);
         }
     }
 
